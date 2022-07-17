@@ -305,7 +305,7 @@ body.lock {
     height: 100%;
     background-color: #f8f8f8;
     transition: all 0.5s ease;
-    z-index: 3;
+    z-index: 5;
   }
   .header__content ul {
     display: flex;
