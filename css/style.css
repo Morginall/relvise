@@ -113,10 +113,10 @@ body.lock {
   overflow: hidden;
 }
 
-.-ibg {
+.ibg {
   position: relative;
 }
-.-ibg img {
+.ibg img {
   position: absolute;
   width: 100%;
   height: 100%;
