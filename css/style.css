@@ -199,7 +199,7 @@ body.lock {
 }
 .header__title {
   position: relative;
-  z-index: 7;
+  z-index: 15;
   font-weight: 700;
   font-size: 24px;
   line-height: 32px;
@@ -248,7 +248,7 @@ body.lock {
     height: 24px;
     display: block;
     position: relative;
-    z-index: 7;
+    z-index: 15;
   }
   .header__burger::before,
 .header__burger::after {
