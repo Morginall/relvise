@@ -113,11 +113,10 @@ body.lock {
   overflow: hidden;
 }
 
-.finance__bg-image {
-  display: none;
+.-ibg {
   position: relative;
 }
-.finance__bg-image img {
+.-ibg img {
   position: absolute;
   width: 100%;
   height: 100%;
